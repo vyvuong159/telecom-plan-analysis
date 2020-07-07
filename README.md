@@ -1,6 +1,6 @@
 ## Introduction
 - This project is an assignment of the Data Scientist training program by Practicum - Yandex. 
-- This project analyzes the two telecom plans, Surf and Ultimate, of Megaline - a telecom company to see which plan is more profitable.
+- This project analyzes the two telecom plans, Surf and Ultimate, of Megaline (a telecom company) to see which plan is more profitable.
 - This project is the foundation for the commercial department of Megaline to adjust their advertising budget. 
 
 ## Research questions
