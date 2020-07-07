@@ -25,7 +25,7 @@
   - The average profit from Ultimate users is $477.88, the average profit from Surf users is $311.94
   - Statistics=13647.000, p=0.000
   - There is likely some difference in the average profit from users of Ultimate and Surf calling plans (reject H0)
-- Research question 2: Does the average profit from users in New York - New Jersey area is different from that of the users from other regions?¶
+- Research question 2: Does the average profit from users in New York - New Jersey area is different from that of the users from other regions?
   - The average profit from NY-NJ users is $349.14, the average profit from other region users is $369.55
   - Statistics=17668.500, p=0.281
   - There is no difference in the average profit from users in NY-NJ area and users in other regions (fail to reject H0)
